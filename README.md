@@ -17,10 +17,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-Mobile Layout
+### Mobile Layout
+
 ![](./Mobile.png)
 
-Desktop Layout
+### Desktop Layout
+
 ![](./Desktop.png)
 
 ### Links
@@ -39,7 +41,7 @@ Desktop Layout
 
 ### What I learned
 
-To give proper spacing to <li> markers and the values was a little difficult task having some space before a marker and after a marker not allowing the <li> text to wrap below its marker. But flexbox came to the rescue after many trial and errors with ::before and ::marker.
+To give proper spacing to list-item markers and the values was a little difficult task having some space before a marker and after a marker not allowing the list-item text to wrap below its marker. But flexbox came to the rescue after many trial and errors with ::before and ::marker.
 
 ```html
 <ul>
